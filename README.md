@@ -9,7 +9,7 @@ This module provides batch processing utilities for spatial data, including:
 - Batch reprojection of shapefiles to a specified coordinate reference system (CRS)
 
 ## `search_utilities.py`
-This module provides a toolkit for recursively searching, matching, and organizing files 
+This module provides a toolkit for searching, matching, and organizing files 
 with support for spatial data formats, semantic similarity search, and fuzzy matching.
 
 Core features include:
@@ -31,4 +31,4 @@ Core features include:
 This notebook is an example of how the results from 'search_utilities.crawl_dir()' can be searched.
 
 ## 'control.ipynb'
-This notebook is an example of how functions from `search_utilities.py` and `search_utilities.py` can be strung together to automate the preperation of legacy geospatial data for BC EAO projects.
+This notebook is an example of how functions from `search_utilities.py` and `search_utilities.py` can be strung together to automate the preparation of legacy geospatial data for BC EAO projects.
