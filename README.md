@@ -1,6 +1,6 @@
 # Geospatial Data Utilities
 ---
-**These Python modules offer various utilities for finding and processing/normalizing geospatial data that can be easily orchestrated into a pipeline**
+**These Python modules offer various utilities for finding and processing geospatial data that can be easily orchestrated into a pipeline**
 ## `normalization_utilities.py`
 This module provides batch processing utilities for spatial data, including:
 - Extracting .kml files from .kmz archives
